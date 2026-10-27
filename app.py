@@ -39,7 +39,7 @@ with st.sidebar:
     st.caption("Demo MVP • Scores are model estimates, not guaranteed purchases.")
 
 st.subheader("Enter visitor session details")
-st.caption("Training data ke 15 input features bilkul same names aur types mein pass kiye jaate hain.")
+st.caption("Training data ke 15 input .")
 
 with st.form("prediction_form"):
     st.markdown("#### Browsing activity")
